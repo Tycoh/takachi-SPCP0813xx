@@ -27,3 +27,4 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+takachi-SPCP0813xx/fabrication-toolkit-options.json
