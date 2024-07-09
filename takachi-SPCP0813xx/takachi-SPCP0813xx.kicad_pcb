@@ -1267,6 +1267,46 @@
 		(uuid "f82cbf3e-c8bb-4588-b340-a19bb42ae609")
 	)
 	(gr_line
+		(start 106.75 38.25)
+		(end 110 42.25)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "User.2")
+		(uuid "80a5a6e4-5361-4097-9e2f-62ca8d7dec78")
+	)
+	(gr_line
+		(start 110 41.75)
+		(end 110 42.25)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "User.2")
+		(uuid "8c5c32b3-d46b-4013-855e-4791783fcae6")
+	)
+	(gr_line
+		(start 109.5 42.25)
+		(end 110 41.75)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "User.2")
+		(uuid "a94760df-5aa6-4ea9-a91d-6c0589d08028")
+	)
+	(gr_line
+		(start 110 42.25)
+		(end 109.5 42.25)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "User.2")
+		(uuid "b9d76061-e120-49c5-98e1-87defd99aeee")
+	)
+	(gr_line
 		(start 100 89)
 		(end 168 89)
 		(stroke
@@ -1285,6 +1325,18 @@
 		)
 		(layer "User.3")
 		(uuid "bb6cc274-5793-4c4b-bbe6-f8bce21ad2d4")
+	)
+	(gr_text "R10.5mm x 4"
+		(at 101.25 38 0)
+		(layer "User.2")
+		(uuid "09027f5a-6bdc-452c-8daa-213a71ad4595")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
 	)
 	(gr_text "Top center corrdinate:\n(X:134 Y:30)"
 		(at 134 29.25 0)
