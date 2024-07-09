@@ -28,3 +28,4 @@ fp-info-cache
 *.xml
 *.csv
 takachi-SPCP0813xx/fabrication-toolkit-options.json
+*.lck
