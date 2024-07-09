@@ -82,6 +82,7 @@
 	)
 	(net 0 "")
 	(footprint "MountingHole:MountingHole_4.3mm_M4"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "1d383c79-b185-47f6-b992-ae488f512826")
 		(at 154 51.5)
@@ -90,6 +91,7 @@
 		(property "Reference" "REF**"
 			(at 0 -5.3 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "8863abf3-cd6a-4bd3-9375-c06dd3d92a10")
 			(effects
 				(font
@@ -101,6 +103,7 @@
 		(property "Value" "MountingHole_4.3mm_M4"
 			(at 0 5.3 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "cdb626d6-6143-4d57-9c60-25daddbf77de")
 			(effects
 				(font
@@ -148,7 +151,7 @@
 				)
 			)
 		)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr board_only exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 4.3 0)
@@ -191,6 +194,7 @@
 		)
 	)
 	(footprint "MountingHole:MountingHole_4.3mm_M4"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "86e54afb-c3ba-4e4e-aad6-64e79500fdbd")
 		(at 134 134)
@@ -199,6 +203,7 @@
 		(property "Reference" "REF**"
 			(at 0 -5.3 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "8863abf3-cd6a-4bd3-9375-c06dd3d92a10")
 			(effects
 				(font
@@ -257,7 +262,7 @@
 				)
 			)
 		)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr board_only exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 4.3 0)
@@ -300,6 +305,7 @@
 		)
 	)
 	(footprint "MountingHole:MountingHole_4.3mm_M4"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "9e6b965b-c08e-414d-9f9e-d47aaa8a3927")
 		(at 154 126.5)
@@ -308,6 +314,7 @@
 		(property "Reference" "REF**"
 			(at 0 -5.3 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "8863abf3-cd6a-4bd3-9375-c06dd3d92a10")
 			(effects
 				(font
@@ -366,7 +373,7 @@
 				)
 			)
 		)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr board_only exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 4.3 0)
@@ -409,6 +416,7 @@
 		)
 	)
 	(footprint "MountingHole:MountingHole_4.3mm_M4"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "b83b0b68-17ad-4ef2-a684-1e964fd9b044")
 		(at 114 51.5)
@@ -476,7 +484,7 @@
 				)
 			)
 		)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr board_only exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 4.3 0)
@@ -519,6 +527,7 @@
 		)
 	)
 	(footprint "MountingHole:MountingHole_4.3mm_M4"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "ba76627e-eaa0-429d-b301-609bd8b79b9d")
 		(at 154 89)
@@ -527,6 +536,7 @@
 		(property "Reference" "REF**"
 			(at 0 -5.3 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "8863abf3-cd6a-4bd3-9375-c06dd3d92a10")
 			(effects
 				(font
@@ -585,7 +595,7 @@
 				)
 			)
 		)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr board_only exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 4.3 0)
@@ -628,6 +638,7 @@
 		)
 	)
 	(footprint "MountingHole:MountingHole_4.3mm_M4"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "d6fac5a8-9dc9-410b-8322-c0f998432e1c")
 		(at 134 44)
@@ -636,6 +647,7 @@
 		(property "Reference" "REF**"
 			(at 0 -5.3 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "8863abf3-cd6a-4bd3-9375-c06dd3d92a10")
 			(effects
 				(font
@@ -694,7 +706,7 @@
 				)
 			)
 		)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr board_only exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 4.3 0)
@@ -737,6 +749,7 @@
 		)
 	)
 	(footprint "MountingHole:MountingHole_4.3mm_M4"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "ebbb9f06-0f19-419a-baad-1424c3fbea9b")
 		(at 114 89)
@@ -745,6 +758,7 @@
 		(property "Reference" "REF**"
 			(at 0 -5.3 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "8863abf3-cd6a-4bd3-9375-c06dd3d92a10")
 			(effects
 				(font
@@ -803,7 +817,7 @@
 				)
 			)
 		)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr board_only exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 4.3 0)
@@ -846,6 +860,7 @@
 		)
 	)
 	(footprint "MountingHole:MountingHole_4.3mm_M4"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "ffa1c90e-0bfd-4ba2-a0ae-fb05a6c5e7a9")
 		(at 114 126.5)
@@ -854,6 +869,7 @@
 		(property "Reference" "REF**"
 			(at 0 -5.3 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "8863abf3-cd6a-4bd3-9375-c06dd3d92a10")
 			(effects
 				(font
@@ -912,7 +928,7 @@
 				)
 			)
 		)
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr board_only exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 4.3 0)
@@ -958,6 +974,7 @@
 		(start 153 30)
 		(mid 153.353553 30.146447)
 		(end 153.5 30.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -968,6 +985,7 @@
 	(gr_line
 		(start 167.5 133.5)
 		(end 163.5 133.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -978,6 +996,7 @@
 	(gr_line
 		(start 100 89)
 		(end 100 45)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -988,6 +1007,7 @@
 	(gr_line
 		(start 115 148)
 		(end 134.5 148)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -998,6 +1018,7 @@
 	(gr_line
 		(start 152.5 30)
 		(end 152.5 30)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1009,6 +1030,7 @@
 		(start 100.5 133.5)
 		(mid 100.146447 133.353553)
 		(end 100 133)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1020,6 +1042,7 @@
 		(start 115 148)
 		(mid 114.646447 147.853553)
 		(end 114.5 147.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1030,6 +1053,7 @@
 	(gr_line
 		(start 153.5 143.5)
 		(end 153.5 147.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1041,6 +1065,7 @@
 		(start 114.5 34)
 		(mid 111.424621 41.424621)
 		(end 104 44.5)
+		(locked yes)
 		(stroke
 			(width 0.15)
 			(type default)
@@ -1052,6 +1077,7 @@
 		(start 100 45)
 		(mid 100.146447 44.646447)
 		(end 100.5 44.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1062,6 +1088,7 @@
 	(gr_line
 		(start 164 44.5)
 		(end 167.5 44.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1073,6 +1100,7 @@
 		(start 153.5 147.5)
 		(mid 153.353553 147.853553)
 		(end 153 148)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1083,6 +1111,7 @@
 	(gr_line
 		(start 168 88.5)
 		(end 168 133)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1094,6 +1123,7 @@
 		(start 114.5 30.5)
 		(mid 114.646447 30.146447)
 		(end 115 30)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1104,6 +1134,7 @@
 	(gr_line
 		(start 115 30)
 		(end 134 30)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1114,6 +1145,7 @@
 	(gr_line
 		(start 134 30)
 		(end 153 30)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1124,6 +1156,7 @@
 	(gr_line
 		(start 114.5 30.5)
 		(end 114.5 34)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1134,6 +1167,7 @@
 	(gr_line
 		(start 168.18602 129.748471)
 		(end 168.18602 129.748471)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1145,6 +1179,7 @@
 		(start 153.5 144)
 		(mid 156.575379 136.575379)
 		(end 164 133.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1156,6 +1191,7 @@
 		(start 168 133)
 		(mid 167.853553 133.353553)
 		(end 167.5 133.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1166,6 +1202,7 @@
 	(gr_line
 		(start 104 133.5)
 		(end 100.5 133.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1176,6 +1213,7 @@
 	(gr_line
 		(start 168 89)
 		(end 168 45)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1187,6 +1225,7 @@
 		(start 164 44.5)
 		(mid 156.575379 41.424621)
 		(end 153.5 34)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1197,6 +1236,7 @@
 	(gr_line
 		(start 100.5 44.5)
 		(end 104 44.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1207,6 +1247,7 @@
 	(gr_line
 		(start 100 133)
 		(end 100 89)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1217,6 +1258,7 @@
 	(gr_line
 		(start 114.5 147.5)
 		(end 114.5 144)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1228,6 +1270,7 @@
 		(start 104 133.5)
 		(mid 111.424621 136.575379)
 		(end 114.5 144)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1238,6 +1281,7 @@
 	(gr_line
 		(start 153.5 30.5)
 		(end 153.5 34)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1248,6 +1292,7 @@
 	(gr_line
 		(start 133.5 148)
 		(end 153 148)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1259,6 +1304,7 @@
 		(start 167.5 44.5)
 		(mid 167.853553 44.646447)
 		(end 168 45)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1397,6 +1443,39 @@
 			)
 			(justify left bottom)
 		)
+	)
+	(dimension
+		(type aligned)
+		(layer "User.2")
+		(uuid "18585092-94df-49bb-a74e-be52958090e9")
+		(pts
+			(xy 100 89) (xy 100 44.5)
+		)
+		(height -5.75)
+		(gr_text "44.5000 mm"
+			(at 93.1 66.75 90)
+			(layer "User.2")
+			(uuid "18585092-94df-49bb-a74e-be52958090e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
 	)
 	(dimension
 		(type aligned)
